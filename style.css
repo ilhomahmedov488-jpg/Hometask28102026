@@ -767,17 +767,17 @@ body {
         position: absolute;
         top: 0;
         left: 0%;
-    }.c55{
+    }
+    .c55{
         width: 80%;
         height: 259px;
-       
-        overflow: none;
+        
     }
     .c56
     {
         width: 100%;
         overflow: none;
-        left: 400px;
+        left: 600px;
         top: 0;
     }
     .c57{
